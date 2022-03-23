@@ -16,4 +16,4 @@ It has about 39000 records. From DASS I will only use scores from depression and
 - Friday 04.03: continue with modelling.
 - Monday 07.03: finish modelling if needed. Start visualizations.
 - Wednesday 09.03: finish everything and clean the notebook. Start with presentation.
-- Thursday 10.03: finish presentation and be ready for tomorrow.
+- Thursday 10.03: finish presentation and be ready for presentation.
